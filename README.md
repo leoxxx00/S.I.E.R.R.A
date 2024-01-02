@@ -1,4 +1,6 @@
 # S.I.E.R.R.A
+Please install libaries as specified in the screen shot before running the SIERRA.py
+
 Python clothing management tkinter GUI software with live SQL interaction, fraud detection, QR code generator, and more. 
 
 Admin Name: 000@gmail.com
